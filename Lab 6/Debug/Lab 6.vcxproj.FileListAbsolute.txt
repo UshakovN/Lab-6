@@ -1,0 +1,2 @@
+D:\Прога\Lab 6 (битовая маска)\Lab 6\Debug\Lab 6.exe
+D:\Прога\Lab 6 (битовая маска)\Lab 6\Debug\Lab 6.pdb
